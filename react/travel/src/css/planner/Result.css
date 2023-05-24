@@ -1,0 +1,14 @@
+#result{
+    position: absolute;
+    z-index: 2;
+    width: 300px;
+    background-color: white;
+    right: 0;
+    top: 0;
+}
+
+/* 
+.result_place{
+    height: 30px;
+} */
+

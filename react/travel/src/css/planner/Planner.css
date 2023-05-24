@@ -1,0 +1,7 @@
+#planner{
+    position: relative;
+    width: 100%;
+    height: 90vh;
+    top : 30px;
+    background-color: aqua;
+}
